@@ -1,0 +1,10 @@
+-	There is a greater sense of security due to the fact that patrons do not actually walk to and from their own space.
+-	It is highly feasible for extremely small sites that are unable to accommodate a conventional ramped parking structure.
+-	There is high parking efficiency (i.e. sf/space and cf/space).
+-	There is no need for driving while looking for an available space.
+-	Emissions are greatly brought down and reduced.
+-	The patrons wait for their car in a highly controlled environment.
+-	There are less chances for vehicle vandalism.
+- There is a minimal staff requirement if it is used by known parkers.
+-	It is possible that the retrieval time is lower than the combined driving/parking/walking time in conventional ramped parking structures.
+- There is an easier facade integration since there are no ramping floors or openings in exterior walls.
