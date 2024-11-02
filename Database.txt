@@ -1,0 +1,23 @@
+mysql> desc parkmaster12;
++----------+--------------+------+-----+---------+-------+
+| Field    | Type         | Null | Key | Default | Extra |
++----------+--------------+------+-----+---------+-------+
+| pid      | int(8)       | NO   | PRI | NULL    |       |
+| pnm      | varchar(30)  | NO   |     | NULL    |       |
+| level    | varchar(30)  | NO   |     | NULL    |       |
+| freespace | varchar(30)  | NO   |     | NULL    |       |
+| vehicleno | varchar(30)  | NO   |     | NULL    |       |
+| nod      | varchar(30)  | NO   |     | NULL    |       |
+| payment   | int(5)       | NO   |     | NULL    |       |
++----------+--------------+------+-----+---------+-------+
+7 rows in set (0.01 sec)
+
+mysql> desc vehicle;
++--------+-------------+------+-----+---------+-------+
+| Field  | Type        | Null | Key | Default | Extra |
++--------+-------------+------+-----+---------+-------+
+| vid    | int(8)      | NO   | PRI | NULL    |       |
+| vnm    | varchar(30) | NO   |     | NULL    |       |
+| dateofpur | date        | YES  |     | NULL    |       |
++--------+-------------+------+-----+---------+-------+
+3 rows in set (0.00 sec)
