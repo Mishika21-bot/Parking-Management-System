@@ -1,0 +1,11 @@
+SOFTWARE SPECIFICATION: -
+Operating System: Windows 7
+Platform: Python IDLE 3.7
+Database: MySQL
+Language: Python
+
+
+HARDWARE SPECIFICATION: -   
+Processor: Dual Core & Above
+Hard Disk: 40GB
+RAM: 1024MB
